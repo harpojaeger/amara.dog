@@ -1,5 +1,5 @@
 body {
-  background-image: url('n1977s.jpg');
+  background-image: url('bg.png');
   margin: 0;
 }
 
@@ -12,6 +12,7 @@ div#wrapper div#amara {
   width: 100%;
   padding: 0;
   border: 0;
+  background-color: purple;
 }
 
 @media screen and (max-width: 600px) {
@@ -32,12 +33,4 @@ div#amara div#imgwrapper {
 
 div#amara div#imgwrapper img {
   width:100%;
-}
-
-div#wrapper div#amara div#caption {
-  font-size: .5em;
-}
-
-div #credit {
-  font-size: .2em;
 }
