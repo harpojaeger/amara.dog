@@ -1,2 +1,2 @@
-### amara.space
-Amara...in SPACE
+### amara.dog
+what if amara but dogs
